@@ -6,6 +6,8 @@ authors = ["Sergey Vavilin <vavilin.dev@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+aiogram = "^3.13.1"
+python-decouple = "^3.8"
 
 [tool.poetry.dev-dependencies]
 
